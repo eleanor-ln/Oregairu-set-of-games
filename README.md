@@ -46,8 +46,10 @@ https://drive.google.com/drive/folders/1umtOQEk1v0hwYp-ws1WIPuwTkzjNNXmV?usp=sha
 Rom:
 https://archive.org/details/oregairu-kan-switch
 https://drive.google.com/drive/folders/1rJly8Q9vsHvO73gfGBfPWAkP-3zx5EAg?usp=sharing
+
 Instructions to download on emulator:
 https://docs.google.com/document/d/1Z0rHAp0IkKEERSTkY_j_Y7YOns7R2swLSk29BYSP6bs/edit?usp=sharing
+
 Instructions to download on Switch:
 https://docs.google.com/document/d/1Ggvm7-qvLt7kHxVe6RQBhLb_2f6kp2Z4zP3nhoCUUUE/edit?usp=sharing
 
@@ -56,7 +58,10 @@ https://docs.google.com/document/d/1fSRLpJb5az1gBajTIWvXPFEchniEWT66Z5YJ9QrqmHs/
 
 # Additional
 Ryujinx emulator - https://git.ryujinx.app/projects/Ryubing/releases
+
 Ryujinx keys - https://prodkeys.net/ryujinx-prod-keys-update/
+
 Emulator keys + firmware - https://drive.google.com/file/d/1BPWKpuvzfaZsj8IlswMPKziWuLfqLoRn/view?usp=sharing
+
 All games folder (Google disk) - https://drive.google.com/drive/folders/1LSt0n1opI7Va6HwNY1shcenr9JHm0wBx
 
