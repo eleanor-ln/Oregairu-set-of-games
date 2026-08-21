@@ -1,4 +1,4 @@
-# set of Oregairu VN games by EleanorMay 
+# set of OreGairu VN games by EleanorMay (Russia translation by community)
 
 ## First game:
 
@@ -64,4 +64,7 @@ Ryujinx keys - https://prodkeys.net/ryujinx-prod-keys-update/
 Emulator keys + firmware - https://drive.google.com/file/d/1BPWKpuvzfaZsj8IlswMPKziWuLfqLoRn/view?usp=sharing
 
 All games folder (Google disk) - https://drive.google.com/drive/folders/1LSt0n1opI7Va6HwNY1shcenr9JHm0wBx
+
+
+
 
