@@ -31,7 +31,7 @@ Mac:
 https://drive.google.com/drive/folders/1djklRm9b0bxvSyrNyLp5F8NSND2b4go-?usp=sharing
 
 Route guide:
-https://docs.google.com/document/d/1eSj9yMpCqdYu5Zv_79sw-kvrj4JG2czh/edit?usp=sharing&ouid=105696199102013754606&rtpof=true&sd=true 
+https://docs.google.com/document/d/1eSj9yMpCqdYu5Zv_79sw-kvrj4JG2czh/edit?usp=sharing&ouid=105696199102013754606&rtpof=true&sd=true
 
 ## Third game, Kan:
 
@@ -55,6 +55,29 @@ https://docs.google.com/document/d/1Ggvm7-qvLt7kHxVe6RQBhLb_2f6kp2Z4zP3nhoCUUUE/
 
 Route guide:
 https://docs.google.com/document/d/1fSRLpJb5az1gBajTIWvXPFEchniEWT66Z5YJ9QrqmHs/edit?usp=sharing
+
+To run in ready emulator:
+run Ryujinx.exe
+run game in Ryujinx gui.
+
+### Как запустить третью игру (Kan)?
+Доступна только версия для Windows 10/11, на эмуляторе Ryujinx готовый к запуску.
+Пошаговые действия для запуска эмулятора с игрой:
+1. Установить последнее обновление на гитхабе.
+2. Увидеть что в установленном архиве 2 папки и файл, распаковываем папку emulator целиком в удобное для запуска место.
+3. Запускаем эмулятор. (Ryujinx.exe)
+4. Устаналиваем прошивку и ключи для эмулятора отсюда: https://drive.google.com/file/d/1BPWKpuvzfaZsj8IlswMPKziWuLfqLoRn/view?usp=sharing
+5. Переносим ключи и прошивку в любую удобную нам папку (предварительно распаковываем)
+6. ![img_1.png](img_1.png)
+После этого устанавливаем ключи и прошивку в самом эмуляторе.
+Install keys > Install keys (Folder) , откроется окно и мы выбираем путь к папке в которую положили ключи.
+Install Firmware > Install Firmware (.XCI or .ZIP) , откроется окно и мы выбираем путь к .zip архиву который распаковали с ключами. 
+7. ![img.png](img.png) в этом разделе открываем Open Ryujinx Folder.
+8. Переходим в корень папки Ryujinx (Roaming)
+9. Удаляем папку Ryujinx переносим туда папку Ryujinx которая была в репозитории.
+10. Перезапускаем эмулятор от имени администратора.
+11. ![img_2.png](img_2.png) В списке появится третья игра.
+12. Запускаем двумя кликами или пкм > Start
 
 # Additional
 Ryujinx emulator - https://git.ryujinx.app/projects/Ryubing/releases

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Firmware.22.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/emulator/keys + firmware/Firmware.22.1.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
