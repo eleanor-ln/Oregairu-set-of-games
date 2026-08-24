@@ -94,5 +94,10 @@ Emulator keys + firmware - https://drive.google.com/file/d/1BPWKpuvzfaZsj8IlswMP
 All games folder (Google disk) - https://drive.google.com/drive/folders/1LSt0n1opI7Va6HwNY1shcenr9JHm0wBx
 
 
+# repo &  ports released by EleanorMay, vicont.
+<img width="700" height="744" alt="изображение" src="https://github.com/user-attachments/assets/e46321c7-f9b0-42cf-bca6-04c8239b630c" />
+
+
+
 
 
